@@ -1,0 +1,2 @@
+rtsp:
+  url_template: "rtsp://{username}:{password}@{ip}/H264?ch=1&subtype=0"

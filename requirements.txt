@@ -1,0 +1,11 @@
+opencv-python
+pytesseract
+easyocr
+numpy
+pillow
+ultralytics
+pika
+kafka-python-ng
+six
+confluent-kafka
+python-dotenv
